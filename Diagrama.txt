@@ -1,0 +1,10 @@
+proyecto_cursos/
+├── modelos/
+│   ├── usuario.py
+│   ├── estudiante.py
+│   ├── instructor.py
+│   ├── curso.py
+│   └── evaluacion.py
+├── gestor/
+│   └── plataforma.py
+├── main.py
